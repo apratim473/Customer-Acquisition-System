@@ -12,7 +12,7 @@
 	<artifactId>CustomerAcquisitionSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CustomerAcquisitionSystem</name>
-	<description>Spring boot app for aquiring customer and disbursing loans.</description>
+	<description>Spring boot app for acquiring customer and disbursing loans.</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
